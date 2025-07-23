@@ -17,7 +17,7 @@ Este projeto foi desenvolvido como parte de um desafio de POO para modelar e imp
 
 ```
 src/
-├── interfaces/
+├── iphone/
 │   ├── ReprodutorMusical.java
 │   ├── AparelhoTelefonico.java
 │   └── NavegadorInternet.java
